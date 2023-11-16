@@ -9,10 +9,10 @@ To explore and run the price prediction model, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine with the following command:
 
    ```bash
-   https://github.com/S-Hari-Prasad-Reddy/Price-Predicting-Model
+   https://github.com/Kamsanilokeshreddy/Price-Predicting-Model
    ```
 
-2. **Open the Notebook:** Navigate to the cloned directory and open the Jupyter Notebook file (`price_predicting_model.ipynb`) using Google Colab. Click on this link to open the notebook: [Open in Colab](https://colab.research.google.com/github/S-Hari-Prasad-Reddy/Price-Predicting-Model/blob/main/Price%20Predicting%20Model.ipynb).
+2. **Open the Notebook:** Navigate to the cloned directory and open the Jupyter Notebook file (`price_predicting_model.ipynb`) using Google Colab. Click on this link to open the notebook: [Open in Colab](https://colab.research.google.com/github/Kamsanilokeshreddy/Price-Predicting-Model/blob/main/Price%20Predicting%20Model.ipynb).
 
 3. **Run the Notebook:** Within Google Colab, execute each cell to delve into the data, preprocess it, construct the machine learning model, and evaluate its performance.
 
